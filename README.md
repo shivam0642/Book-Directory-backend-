@@ -63,3 +63,28 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________________________________________
 
 
+**Getting Started**
+
+1.Clone the repository
+ - git clone https://github.com/shivam0642/Book-Directory-backend-.git
+   cd Book-Directory-backend-
+
+2. Install dependencies
+   - npm install
+
+3. Setup environment variables
+   - Copy .env.example to .env
+     Add MongoDB URI and other required variables
+
+4. Run the server
+   -npm start
+
+5.Test the endpoints
+
+-Use Postman or any API client to test the routes   
+
+_____________________________________________________________________________________________________________________________________________
+
+License
+This project is licensed under the MIT License.
+
