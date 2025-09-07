@@ -16,6 +16,7 @@ This project functions as a mini-library backend, designed for efficient book ma
 
 -Postman – API testing
 
+____________________________________________________________________________________________________________________________________________
 
 **Features**
 
@@ -29,6 +30,7 @@ This project functions as a mini-library backend, designed for efficient book ma
 
 5.Delete Book: Remove books from the directory
 
+_____________________________________________________________________________________________________________________________________________
 
 **API Endpoints**
 
@@ -42,6 +44,7 @@ This project functions as a mini-library backend, designed for efficient book ma
 
 -DELETE /books/:id – Delete a book
 
+_____________________________________________________________________________________________________________________________________________
 
 **Real-World Use Case**
 
@@ -57,3 +60,4 @@ This project functions as a mini-library backend, designed for efficient book ma
 
 6.Adding borrowing functionality
 
+____________________________________________________________________________________________________________________________________________
